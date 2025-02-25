@@ -1,0 +1,25 @@
+h1{
+    color: aqua;
+    font-size: 30pt;
+}
+p{
+    color: blue;
+    font-size: 18pt;
+}
+
+#p1{
+    color: green;
+    font-size: 22pt;
+}
+.tag_amarela{
+    color: yellow;
+}
+
+div p{
+    color: pink;
+    font-size: 37pt;
+}
+
+p:hover{
+    background-color: brown;
+}

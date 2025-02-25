@@ -1,0 +1,24 @@
+#Baka{
+    color: blueviolet;
+}
+#Baka:hover{
+    background-color: aqua;
+}
+.Miku:hover{
+    background-color: aquamarine;
+}
+.Miku{
+    color: blue;
+    font-size: 20pt;
+}
+.Teto{
+    color: red;
+}
+.Teto:hover{
+    background-color: red;
+    color: brown;
+}
+.Yellow:hover{
+    color: yellowgreen;
+    background-color: yellow;
+}
