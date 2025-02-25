@@ -1,5 +1,9 @@
 #Baka{
     color: blueviolet;
+    border: dotted 7px aqua;
+    position: relative;
+    top: 100px;
+    left: 250px;
 }
 #Baka:hover{
     background-color: aqua;
@@ -11,15 +15,27 @@
     color: blue;
     font-size: 20pt;
     border: dotted 7px aqua;
+    position: relative;
+    top: 100px;
+    left: 250px;
+    display: inline;
 }
 .Teto{
     color: red;
     border: solid pink 7px;
+    position: relative;
+    top: 100px;
+    left: 250px;
 }
 .Teto:hover{
     background-color: red;
     color: brown;
     
+}
+.Yellow{
+    position: relative;
+    top: 100px;
+    left: 250px;
 }
 .Yellow:hover{
     color: yellowgreen;
