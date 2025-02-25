@@ -10,15 +10,19 @@
 .Miku{
     color: blue;
     font-size: 20pt;
+    border: dotted 7px aqua;
 }
 .Teto{
     color: red;
+    border: solid pink 7px;
 }
 .Teto:hover{
     background-color: red;
     color: brown;
+    
 }
 .Yellow:hover{
     color: yellowgreen;
     background-color: yellow;
+    border: dashed 5px yellowgreen;
 }
